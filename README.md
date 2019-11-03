@@ -1,2 +1,2 @@
-# Homebrew Formulae
-Formulae for my Homebrew taps
+# Homebrew
+* Formulae for Homebrew
