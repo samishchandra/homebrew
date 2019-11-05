@@ -4,7 +4,7 @@
 class SamishUncrustify < Formula
   desc "Samish's version of Uncrustify"
   homepage "https://github.com/samishchandra/uncrustify"
-  url "https://github.com/samishchandra/uncrustify/blob/master/archive/uncrustify-0.69.tar.gz?raw=true"
+  url "https://github.com/samishchandra/uncrustify/blob/master/archive/uncrustify-0.96.tar.gz?raw=true"
   sha256 ""
   head "https://github.com/samishchandra/uncrustify.git"
 
