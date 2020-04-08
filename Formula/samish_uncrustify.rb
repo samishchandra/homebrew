@@ -4,8 +4,8 @@
 class SamishUncrustify < Formula
   desc "Samish's version of Uncrustify"
   homepage "https://github.com/samishchandra/uncrustify"
-  url "https://github.com/samishchandra/homebrew/blob/master/archive/uncrustify/uncrustify-0.70.1-310-9ba9257f.tar.gz?raw=true"
-  sha256 "f6820dc5044e69fe0226628827481a8005a78d8fac7975f7db3615231115eb81"
+  url "https://github.com/samishchandra/homebrew/blob/master/archive/uncrustify/uncrustify-0.70.1-314-d6b27d2c.tar.gz?raw=true"
+  sha256 "ab0da4c0ac925147f0c69eb57ee21fe61883d1638985c93749b1863d0e1c92f4"
   head "https://github.com/samishchandra/uncrustify.git"
 
   depends_on "cmake" => :build
